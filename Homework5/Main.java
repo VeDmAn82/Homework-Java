@@ -1,10 +1,8 @@
 package Homework5;
 
 import java.util.Arrays;
-import java.util.Random;
 
 import static Homework5.ListStaff.getListStaff;
-
 
 public class Main {
     public static void main(String[] args) {
